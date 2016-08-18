@@ -35,7 +35,7 @@ public class Day
     }
 
     /**
-     Constructs a day with a given year, month, and day
+      a day with a given year, month, and day
      of the Julian/Gregorian calendar. The Julian calendar
      is used for all days before October 15, 1582
      @param aYear a year (any number other than 0)
@@ -47,6 +47,7 @@ public class Day
         year = aYear;
         month = aMonth;
         date = aDayOfMonth;
+
     }
 
     /**
